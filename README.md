@@ -78,3 +78,6 @@ Exportable Data: Pull 30-day reports and export logs seamlessly to JSON or CSV f
 # Important Channels For  You:
 1. Youtube Channel : https://www.youtube.com/channel/UC_sLauBmOYANLAPt245hmfg
 2. Discord Server : https://discord.gg/k5Yr4V3mEt
+
+# Support :)
+Buy Me A Chai = https://buymeachai.ezee.li/TechnoTechYT
