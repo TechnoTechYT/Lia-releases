@@ -75,8 +75,30 @@ Cross-Platform Feed: Monitor requests, warnings, and system logs across all of L
 
 Exportable Data: Pull 30-day reports and export logs seamlessly to JSON or CSV for external analysis.
 
-# Install:
-The Process Is Very Simple Just Run The install_lia.sh It Will Install all the Necessary Things Need To Run Lia Then Unzip The File You Will Download From The Repo And inside It Run Lia Application It Will Automatically Open Then Chrome Of Lia.
+## 🌸 Installation
+
+### Step 1 — Install Dependencies
+Download `install_lia.sh` from the releases page and run it:
+
+```bash
+chmod +x install_lia.sh && ./install_lia.sh
+```
+
+### Step 2 — Download Lia
+Go to the [Releases](https://github.com/TechnoTechYT/Lia-releases/releases)
+page and download the latest version for your platform.
+
+### Step 3 — Extract the archive
+```bash
+tar -xzf Lia-1.0.0-linux.tar.gz
+```
+
+### Step 4 — Launch
+Simply **double-click the `Lia` executable** inside the extracted folder — 
+no terminal needed. Lia will open automatically in your browser. 🌸
+
+> **Note:** Run `install_lia.sh` **before** launching Lia for the first 
+> time, otherwise some features may not work correctly.
 
 # Important Channels For  You:
 1. Youtube Channel : https://www.youtube.com/channel/UC_sLauBmOYANLAPt245hmfg
