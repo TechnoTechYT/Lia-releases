@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-04-22",
+  "release_notes": "Public release of Lia — your AI companion. Published by TechnoTechYT.",
+  "download_urls": {
+    "linux": "https://github.com/TechnoTechYT/lia-releases/releases/download/v1.0.0/Lia-1.0.0-linux.tar.gz"
+  },
+  "min_supported_version": "1.0.0",
+  "changelog": {
+    "1.0.0": [
+      "Initial release",
+      "AI chat with Ollama / Anthropic / Groq / Cerebras",
+      "Voice TTS via Piper, Kokoro, Edge-TTS",
+      "Discord bot integration",
+      "Music player, PDF reader, file manager"
+    ]
+  },
+  "publisher": "TechnoTechYT",
+  "published_for": "public"
+}
