@@ -75,6 +75,9 @@ Cross-Platform Feed: Monitor requests, warnings, and system logs across all of L
 
 Exportable Data: Pull 30-day reports and export logs seamlessly to JSON or CSV for external analysis.
 
+# Install:
+The Process Is Very Simple Just Run The install_lia.sh It Will Install all the Necessary Things Need To Run Lia Then Unzip The File You Will Download From The Repo And inside It Run Lia Application It Will Automatically Open Then Chrome Of Lia.
+
 # Important Channels For  You:
 1. Youtube Channel : https://www.youtube.com/channel/UC_sLauBmOYANLAPt245hmfg
 2. Discord Server : https://discord.gg/k5Yr4V3mEt
