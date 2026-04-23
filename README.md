@@ -103,6 +103,7 @@ no terminal needed. Lia will open automatically in your browser. 🌸
 # Important Channels For  You:
 1. Youtube Channel : https://www.youtube.com/channel/UC_sLauBmOYANLAPt245hmfg
 2. Discord Server : https://discord.gg/k5Yr4V3mEt
+3. Installation Video : https://youtu.be/tPqMJu8SsvQ?si=Y_88PJOAtOcI0qnh
 
 # Support :)
 Buy Me A Chai = https://buymeachai.ezee.li/TechnoTechYT
