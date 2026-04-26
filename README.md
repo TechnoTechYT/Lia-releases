@@ -100,6 +100,8 @@ no terminal needed. Lia will open automatically in your browser. 🌸
 > **Note:** Run `install_lia.sh` **before** launching Lia for the first 
 > time, otherwise some features may not work correctly.
 
+# If It Ask You For Password Then Use This "lia-change-me"
+
 # Important Channels For  You:
 1. Youtube Channel : https://www.youtube.com/channel/UC_sLauBmOYANLAPt245hmfg
 2. Discord Server : https://discord.gg/k5Yr4V3mEt
