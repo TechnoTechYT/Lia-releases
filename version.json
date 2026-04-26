@@ -1,12 +1,17 @@
 {
-  "version": "1.0.0",
-  "release_date": "2026-04-22",
-  "release_notes": "Public release of Lia — your AI companion. Published by TechnoTechYT.",
+  "version": "1.0.1",
+  "release_date": "2026-04-26",
+  "release_notes": "Bug fix patch \u2014 fixes Kokoro and Edge TTS not working, and expands Discord music panel controls.",
   "download_urls": {
-    "linux": "https://github.com/TechnoTechYT/Lia-releases/releases/download/v1.0.0/Lia-1.0.0-linux.tar.gz"
+    "linux": "https://github.com/TechnoTechYT/lia-releases/releases/download/v1.0.1/Lia-1.0.1-linux.tar.gz"
   },
   "min_supported_version": "1.0.0",
   "changelog": {
+    "1.0.1": [
+      "Fixed Kokoro TTS not working",
+      "Fixed Edge TTS not working",
+      "Discord music panel: added more playback controls"
+    ],
     "1.0.0": [
       "Initial release",
       "AI chat with Ollama / Anthropic / Groq / Cerebras",
