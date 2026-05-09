@@ -77,28 +77,19 @@ Exportable Data: Pull 30-day reports and export logs seamlessly to JSON or CSV f
 
 ## 🌸 Installation
 
-### Step 1 — Install Dependencies
-Download `install_lia.sh` from the releases page and run it:
+For Versions Above 1.0.1
 
-```bash
-chmod +x install_lia.sh && ./install_lia.sh
-```
+### Step 1 — Install Dependencies
+Download Files from the releases page and run it:
 
 ### Step 2 — Download Lia
 Go to the [Releases](https://github.com/TechnoTechYT/Lia-releases/releases)
 page and download the latest version for your platform.
 
-### Step 3 — Extract the archive
-```bash
-tar -xzf Lia-1.0.0-linux.tar.gz
-```
+### Step 3 — Launch
+Simply **double-click the `start_lia.sh` or `start_lia.bat` Then Open Your Browser And Copy Paste This `http://127.0.0.1:5000/` Lia will open in your browser. 🌸
 
-### Step 4 — Launch
-Simply **double-click the `Lia` executable** inside the extracted folder — 
-no terminal needed. Lia will open automatically in your browser. 🌸
-
-> **Note:** Run `install_lia.sh` **before** launching Lia for the first 
-> time, otherwise some features may not work correctly.
+> **Note:** Run `start_lia.sh` For Linux or `start_lia.bat` For Windows **before** launching Lia On Web, otherwise some features may not work correctly.
 
 # If It Ask You For Password Then Use This "lia-change-me"
 
