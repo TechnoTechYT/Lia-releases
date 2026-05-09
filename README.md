@@ -87,7 +87,7 @@ Go to the [Releases](https://github.com/TechnoTechYT/Lia-releases/releases)
 page and download the latest version for your platform.
 
 ### Step 3 — Launch
-Simply **double-click the `start_lia.sh` or `start_lia.bat` Then Open Your Browser And Copy Paste This `http://127.0.0.1:5000/` Lia will open in your browser. 🌸
+Simply double-click the `start_lia.sh` or `start_lia.bat` Then Open Your Browser And Copy Paste This `http://127.0.0.1:5000/` Lia will open in your browser. 🌸
 
 > **Note:** Run `start_lia.sh` For Linux or `start_lia.bat` For Windows **before** launching Lia On Web, otherwise some features may not work correctly.
 
